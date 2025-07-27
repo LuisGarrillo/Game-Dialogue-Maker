@@ -27,4 +27,4 @@ This are the pages that need to be developed to finish the first version of this
     - [ ] Delete Project
 
 - How to use
-    - [ ] Insturctions
+    - [ ] Instructions
